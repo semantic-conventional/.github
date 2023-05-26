@@ -12,6 +12,7 @@
   <summary><b>Conventional Commits</b></summary>
   
   * Conventional commits refer to a standardized format for commit messages in version control repositories, allowing for consistent and structured communication about changes made to a codebase.
+  * https://www.conventionalcommits.org
   
 </details>
 
