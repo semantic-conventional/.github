@@ -3,7 +3,7 @@
 <details>
   <summary><b>Semantic Versioning</b></summary>
   
-  TODO
+  * https://semver.org
   
 </details>
 
