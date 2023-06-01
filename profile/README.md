@@ -13,9 +13,11 @@
   
   * Conventional commits refer to a standardized format for commit messages in version control repositories, allowing for consistent and structured communication about changes made to a codebase.
   * https://www.conventionalcommits.org
+  <!--
   * https://github.com/conventional-changelog/conventional-changelog
   * https://github.com/conventional-changelog/commitlint
   * https://github.com/carloscuesta/gitmoji (Alternative)
+  -->
   
 </details>
 
@@ -23,6 +25,7 @@
   <summary><b>Semantic Release</b></summary>
   
   * Semantic release is an automated software release process that analyzes the commit messages, determines the appropriate version based on semantic versioning, and generates releases with proper changelogs, enabling streamlined and consistent software deployments.
+  * https://github.com/semantic-release/semantic-release
   
 </details>
 
